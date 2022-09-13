@@ -1,0 +1,7 @@
+/node_modules
+/.angular
+package-lock.json
+.idea/modules.xml
+.idea/test.iml
+.idea/vcs.xml
+package-lock.json
